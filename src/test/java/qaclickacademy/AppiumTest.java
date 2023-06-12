@@ -23,8 +23,8 @@ public class AppiumTest {
 	{
 		System.out.println("IOSApps");	
 		
-		System.out.println("IOSApps");	
-		System.out.println("IOSApps");	
+		System.out.println("IOSApps03");	
+		System.out.println("IOSApps07");	
 		
 		
 	}

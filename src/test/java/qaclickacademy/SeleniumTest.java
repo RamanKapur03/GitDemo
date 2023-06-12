@@ -23,12 +23,12 @@ public class SeleniumTest {
 	@Test
 	public void elementsU1i()
 	{
-		System.out.println("elementfdsUi");	
+		System.out.println("elementfdsUi7");	
 	}
 	@Test
 	public void elementsU1ssi()
 	{
-		System.out.println("elementfdsUi");	
+		System.out.println("elementfdsUi7");	
 	}
 	
 	
