@@ -30,6 +30,10 @@ public class SeleniumTest {
 	{
 		System.out.println("elementfdsUi7");	
 	}
-	
+	@Test
+	public void elementsU1ssi7()
+	{
+		System.out.println("elementfdsUi83");	
+	}
 	
 }
